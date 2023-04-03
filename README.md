@@ -30,6 +30,10 @@ What is an infographic? A graphic is an abstract visual representation of someth
 
 The above photo of a stock ticker tells us a lot of interesting things about the use of color and font.
 
+White text on dark blue is used to indicate "serious, yet totally digital" information. Paleolithic amateurs print stuff out on white paper using black ink. Chad high-data-volume low-latency-chart enjoyers from the future print data out onto dark computer monitors in gray, dark gray, or darkest color that's feasibly visible. Computer monitors always have a dark grey or dark blue background because chad data enjoyers are looking at them all the time and their eyes get tired. Light on dark themes also make you look like you're a sophisticated security expert - obfuscating your workspace with darkness.
+
+However you could still have a black-text-on-white-background table. This just indicates that you and your associates are *extremely* old school. You don't care about using computers or even design at all, you're too focused on making money for your clients. Based! A lot of internal tables and charts in banks and other financial behemoths probably use dark-on-light.
+
 ![image](https://user-images.githubusercontent.com/4268152/229488044-51113e8c-ee25-4def-8897-2d21ee16bed2.png)
 
 This chart by Chart Director is exceedingly ugly and hard to understand. What better way to say you are a very serious business, concerned only with important business thigns, than to produce so ugly a chart? 👏
