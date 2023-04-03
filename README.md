@@ -5,11 +5,11 @@ A knowledge base located at the intersection of web application development  and
 
 
 ## frameworks
-- [React](https://react.dev/){:target="_blank"}
+- [React](https://react.dev/)
   
   The documentation was updated recently.
   
-- [d3](https://github.com/d3/d3/wiki){:target="_blank"}
+- [d3](https://github.com/d3/d3/wiki)
 
   The library that needs no introduction. 
   
